@@ -1,2 +1,2 @@
-# KITECH
-Eunsik Choi_Korea Institute of Industrial Technology
+# Georgia Tech
+Eunsik Choi_Georgia Institute of Technology
